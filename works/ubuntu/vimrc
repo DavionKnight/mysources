@@ -277,6 +277,11 @@ set shiftwidth=4
 set autoindent
 set cindent
 set smartindent
+set vb 				"screen flash
+set scrolloff=10	"screen move by scroll
+set softtabstop=4	"one backspace delete 4 space
+set wrap			"long line auto wrap
+
 
 set ruler
 set showmatch
@@ -284,6 +289,7 @@ set incsearch
 set hls
 
 syntax enable
+syntax on
 set background=dark
 colorscheme desert
 set nu

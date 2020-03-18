@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/meteor/work/projects/snowboy/new/dspc/platform/hal'
-let g:netrw_dirhist_2='/home/meteor/work/projects/snowboy/new/dspc/apps/common'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/meteor/work/projects/platform/xiaodu1/S101_2.9.1.1574755407/duer-bottom-system/duer-linux-ota/src'
+let g:netrw_dirhist_2='/home/meteor/work/projects/platform/xiaodu1/S104'
+let g:netrw_dirhist_3='/home/meteor/work/projects/platform/xiaodu1/S104/conf'
+let g:netrw_dirhist_4='/home/meteor/work/projects/platform/xiaodu1/S104_2.10.1.1577257549/duer-bottom-system/S104/build'
+let g:netrw_dirhist_5='/home/meteor/work/projects/duer-linux-ota/src/duer_ota'
+let g:netrw_dirhist_6='/home/meteor/work/projects/esp-new'
+let g:netrw_dirhist_7='/home/meteor/work/projects/esp-new/lightduer-dual-mic'
+let g:netrw_dirhist_8='/home/meteor/work/projects/esp-new/lightduer-dual-mic/main'
